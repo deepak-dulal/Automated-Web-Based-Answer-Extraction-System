@@ -1,4 +1,4 @@
-# Finding the Right Answer ASAP Guide
+# Automated Web-Based Answer Extraction System
 
 This project is designed to find accurate answers to user-provided questions by scraping and processing data from a list of URLs. The tool uses OpenAI for natural language processing and FAISS for efficient vector search. It also provides the source URLs of the answers for transparency. The tool is built with Streamlit, offering an easy-to-use web interface for users to input URLs, submit queries, and get answers quickly.
 
