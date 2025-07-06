@@ -69,7 +69,7 @@ Once you have everything set up, follow these steps to run the project:
 
 1. **Run Streamlit**:
     ```bash
-    streamlit run app.py
+    streamlit run main.py
     ```
 
 2. **Provide URLs**: Input the number of URLs you want to scrape. Enter the URLs one by one in the text boxes that appear.

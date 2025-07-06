@@ -1,7 +1,7 @@
-pip install streamlit
-pip install langchain
-pip install openai
-pip install faiss-cpu
-pip install unstructured
-pip install langchain-community
-pip install python-dotenv
+streamlit==1.46.1
+openai==1.93.0
+langchain==0.3.26
+langchain-community==0.3.27
+faiss-cpu==1.11.0
+unstructured==0.18.3
+python-dotenv==1.1.1
